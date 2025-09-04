@@ -27,4 +27,4 @@ Aplicativo de busca de filmes usando a API da TMDB.
 - `src/App.jsx` — lógica principal e views.
 - `src/components/*` — componentes reutilizáveis.
 - `src/styles/global.css` — Tailwind + estilos globais.
-# Consumo_de_API_com_ReactJS_Atividade-5
+
