@@ -1,4 +1,4 @@
-# MovieFinder (Vite + React + Tailwind)
+# Consumo_de_API_com_ReactJS_Atividade-5
 
 Aplicativo de busca de filmes usando a API da TMDB.
 
